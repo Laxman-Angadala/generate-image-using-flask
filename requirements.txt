@@ -1,0 +1,5 @@
+flask
+Pillow
+numpy
+
+#These are the required packages for the Flask application to run
